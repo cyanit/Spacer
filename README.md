@@ -7,6 +7,7 @@ Wallpaper: "sunrise Bettmerhorn snowy mountains" by Samuel Ferrara (Unsplash lic
 
 ## Download
 Click [HERE](http://bit.ly/spacer-v1x-download) to download the binary.
+Since the app is not signed, it may show a security alert or trigger your antivirus.
 
 ## How to use
 You can use it in two different ways:
