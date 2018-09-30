@@ -15,3 +15,6 @@ Make a different one (different name!) and repeat.
 ### 2: Copy & Attach
 Pin the exe via drag and drop to your taskbar.
 Copy the exe (different name!) and repeat.
+
+### Tipp 
+Store the exe's/shortcut's in one folder within your "Documents" folder. This way you wont clutter up your Desktop / Documents.
