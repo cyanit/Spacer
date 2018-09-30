@@ -10,7 +10,7 @@ Click [HERE](http://bit.ly/spacer-v1x-download) to download the binary.
 Since the app is not signed, it may show a security alert or trigger your antivirus.
 
 ## How to use
-You can use it in two different ways:
+You can use it in two different ways, you dont even have to open it, since it contains only informations about itself (take a look at the image below)
 
 ### 1: Copy & Attach
 1. Store the exe in any directory
