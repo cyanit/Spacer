@@ -31,3 +31,4 @@ Copy the exe (different name!) and repeat.
 ### Tipps
 - Store the exe's/shortcut's in one folder within your "Documents" folder. This way you wont clutter up your Desktop / Documents.
 - click on the "by cyanit" for the about page
+- combine Spacer with "Classic Shell" for a transparent taskbar
