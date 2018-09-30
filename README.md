@@ -3,7 +3,7 @@ Spacer is a simple program that lets you organize your Taskbar through spaces.
 Keep in mind that a click on the spacer will open the programm.
 
 ## Download
-Click [HERE](https://github.com/cyanit/Spacer/blob/master/Spacer%20v1.exe) to download the binary.
+Click [HERE](https://github.com/cyanit/Spacer/raw/master/Spacer%20v1.exe) to download the binary.
 
 ## How to use
 You can use it in two different ways:
