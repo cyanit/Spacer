@@ -2,12 +2,15 @@
 Spacer is a simple program that lets you organize your Taskbar through spaces.
 
 Keep in mind that a click on the spacer will open the programm.
+
 ![Spacer Opened](https://imgur.com/download/GAGO0He)
 
 Its not noticible on a light and well texturized wallpaper.
+
 ![Spacer on a light wallpaper](https://imgur.com/download/izsPYnu)
 
 If you have a dark wallpaper, you should customize the Icons (the svgs are within the resources). Im working on a switch though.
+
 ![Spacer on a dark wallpaper](https://imgur.com/download/FGwvrpb)
 
 
