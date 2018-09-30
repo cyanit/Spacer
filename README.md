@@ -6,7 +6,7 @@ Spacer is a simple program that lets you organize your Taskbar through spaces.
 Wallpaper: "sunrise Bettmerhorn snowy mountains" by Samuel Ferrara (Unsplash license)
 
 ## Download
-Click [HERE](https://github.com/cyanit/Spacer/raw/master/Spacer%20v1.exe) to download the binary.
+Click [HERE](http://bit.ly/spacer-v1x-download) to download the binary.
 
 ## How to use
 You can use it in two different ways:
