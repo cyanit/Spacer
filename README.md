@@ -26,6 +26,6 @@ Keep in mind that a click on the spacer will open the programm.
 
 ![Spacer Opened](https://imgur.com/download/GAGO0He)
 
-If you have a dark wallpaper, you should customize the Icons (the svgs are within the resources). Im working on a switch though.
+If you have a dark wallpaper, you should customize the icon (the svg is within the resources). Im working on a switch though.
 
 ![Spacer on a dark wallpaper](https://imgur.com/download/FGwvrpb)
