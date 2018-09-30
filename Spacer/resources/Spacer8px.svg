@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 257 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(1,0,0,1,-270,-1)">
+        <g id="Spacer-8px" serif:id="Spacer 8px" transform="matrix(1,0,0,1,270.543,1)">
+            <rect x="0" y="0" width="256" height="256" style="fill:none;"/>
+            <g transform="matrix(0.537364,0,0,0.537364,71.2696,69.0435)">
+                <circle cx="105.572" cy="109.714" r="7.444" style="fill:white;"/>
+            </g>
+            <g transform="matrix(0.39539,0,0,0.323649,0,0)">
+                <rect x="0" y="0" width="2.529" height="3.09" style="fill:white;fill-opacity:0.01;"/>
+            </g>
+            <g transform="matrix(0.39539,0,0,0.323649,255,255)">
+                <rect x="0" y="0" width="2.529" height="3.09" style="fill:white;fill-opacity:0.01;"/>
+            </g>
+            <g transform="matrix(0.39539,0,0,0.323649,255,0)">
+                <rect x="0" y="0" width="2.529" height="3.09" style="fill:white;fill-opacity:0.01;"/>
+            </g>
+            <g transform="matrix(0.39539,0,0,0.323649,0,255)">
+                <rect x="0" y="0" width="2.529" height="3.09" style="fill:white;fill-opacity:0.01;"/>
+            </g>
+        </g>
+    </g>
+</svg>
