@@ -3,6 +3,8 @@ Spacer is a simple program that lets you organize your Taskbar through spaces.
 
 ![Spacer on a light wallpaper](https://imgur.com/download/izsPYnu)
 
+Wallpaper: "sunrise Bettmerhorn snowy mountains" by Samuel Ferrara (Unsplash license)
+
 ## Download
 Click [HERE](https://github.com/cyanit/Spacer/raw/master/Spacer%20v1.exe) to download the binary.
 
@@ -29,3 +31,4 @@ Keep in mind that a click on the spacer will open the programm.
 If you have a dark wallpaper, you should customize the icon (the svg is within the resources). Im working on a switch though.
 
 ![Spacer on a dark wallpaper](https://imgur.com/download/FGwvrpb)
+Wallpaper: "Morning in Dresden" by cyanit (all rights reserved)
