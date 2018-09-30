@@ -12,13 +12,14 @@ Since the app is not signed, it may show a security alert or trigger your antivi
 ## How to use
 You can use it in two different ways:
 
-### 1: Shortcuts
+### 1: Copy & Attach
+1. Store the exe in any directory
+2. Drag the exe to your taskbar to create a shortcut
+3. Copy the exe, rename it and repeat until you have enough spacers
+
+### 2: Shortcuts
 Make a shortcut to the exe and pin that to your taskbar.
 Make a different one (different name!) and repeat.
-
-### 2: Copy & Attach
-Pin the exe via drag and drop to your taskbar.
-Copy the exe (different name!) and repeat.
 
 ## Tipps
 - Store the exe's/shortcut's in one folder within your "Documents" folder. This way you wont clutter up your Desktop / Documents.
