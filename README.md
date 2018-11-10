@@ -24,7 +24,7 @@ Make a different one (different name!) and repeat.
 ## Tipps
 - Store the exe's/shortcut's in one folder within your "Documents" folder. This way you wont clutter up your Desktop / Documents.
 - click on the "by cyanit" for the about page
-- combine Spacer with "Classic Shell" for a transparent taskbar
+- combine Spacer with "Classic Shell" or ["TranslucentTB"](https://github.com/TranslucentTB/TranslucentTB) for a transparent taskbar
 
 Keep in mind that a click on the spacer will open the programm.
 
