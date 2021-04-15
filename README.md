@@ -33,4 +33,3 @@ Keep in mind that a click on the spacer will open the programm.
 If you have a dark wallpaper, you should customize the icon (the svg is within the resources). Im working on a switch though.
 
 ![Spacer on a dark wallpaper](https://imgur.com/download/FGwvrpb)
-Wallpaper: "Morning in Dresden" by cyanit (all rights reserved)
